@@ -1,11 +1,45 @@
 ---
-title: "zhilin_website"
+title: "Hello there!"
+pagetitle: "Zhilin Su"
+description-meta: "Zhilin Su is a PhD student in Psychology at University of Birmingham, studying social learning and group decision-making."
+main-photo: attachments/profile/profile.jpg
+execute: 
+  echo: false
+  warning: false
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
 ---
 
-This is a Quarto website.
+::: {.grid}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.g-col-12 .g-col-sm-4}
 
-```{r}
-1 + 1
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
 ```
+
+:::
+
+::: {.g-col-12 .g-col-sm-8}
+
+I am a PhD student in Psychology at the [Centre for Human Brain Health](https://www.birmingham.ac.uk/research/centres-institutes/human-brain-health),
+School of Psychology, [University of Birmingham](https://www.birmingham.ac.uk/). 
+
+I'm an assistant professor in the [Department of Public Management and Policy](https://aysps.gsu.edu/public-management-policy/) at the [Andrew Young School of Policy Studies](https://aysps.gsu.edu/) at [Georgia State University](https://www.gsu.edu/). I received a PhD in public policy and political science from Duke University's [Sanford School of Public Policy](http://sanford.duke.edu/) in 2017.
+
+I study [how international NGOs work in authoritarian countries](https://www.ingoresearch.org/amicable-contempt/), and I received the 2016–2018 [Emerging Scholar Dissertation Award](https://www.istr.org/page/DissertationISTR) from the [International Society for Third Sector Research (ISTR)](https://www.istr.org/). I do research in public administration and policy, nonprofit management, international relations, and comparative politics.
+
+:::
+
+:::

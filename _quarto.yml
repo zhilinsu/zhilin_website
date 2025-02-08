@@ -1,19 +1,33 @@
 project:
   type: website
+  output-dir: _site
+  preview:
+    port: 5896
+    browser: true
+  render:
+    - "index.qmd"
 
 website:
-  title: "zhilin_website"
+  title: "Zhilin Su"
+  description: "The personal website of Zhilin Su"
+  image: attachments/profile/zhilin-circle.png
+  site-url: https://zhilinsu.com/
+  favicon: attachments/favicon.ico
+  #repo-url: https://github.com/jhelvy/jhelvy_quarto
+  open-graph:
+    locale: en_GB
+    site-name: https://zhilinsu.com/
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    right:
+      - text: "About"
+        href: about.qmd
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
+    theme: css/theme.scss
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    
+editor: source
 
