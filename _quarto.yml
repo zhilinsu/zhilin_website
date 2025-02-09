@@ -1,15 +1,32 @@
 project:
   type: website
+  
   output-dir: _site
+  
   preview:
-    port: 5896
+    port: 5555
     browser: true
+    watch-inputs: true
+    navigate: true
+    
   render:
     - "index.qmd"
+    
+  resources:
+    - "attachments/**"
+    
+freeze: true 
+  
+bibliography: attachments/bib/references.bib
+
+# Metadata stuff
+pagetitle: "{{< meta title >}} | Zhilin Su"
+author-meta: "Zhilin Su"
 
 website:
   title: "Zhilin Su"
   description: "The personal website of Zhilin Su"
+  favicon: "/attachments/favicon-512.png"
   image: attachments/profile/zhilin-circle.png
   site-url: https://zhilinsu.com/
   favicon: attachments/favicon.ico
