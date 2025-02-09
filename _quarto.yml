@@ -25,26 +25,49 @@ author-meta: "Zhilin Su"
 
 website:
   title: "Zhilin Su"
-  description: "The personal website of Zhilin Su"
+  description: "Zhilin Su is a Psychology PhD student at Centre for Human Brain Health, University of Birmingham, studying social learning and group decision-making."
   favicon: "/attachments/favicon-512.png"
-  image: attachments/profile/zhilin-circle.png
   site-url: https://zhilinsu.com/
-  favicon: attachments/favicon.ico
   #repo-url: https://github.com/jhelvy/jhelvy_quarto
-  open-graph:
+  
+  #google-analytics: "XXX"
+  
+  open-graph: 
+    image: "/attachments/profile/sheep .png"
     locale: en_GB
-    site-name: https://zhilinsu.com/
+    
   navbar:
-    right:
+    pinned: true
+    
+    left:
       - text: "About"
-        href: about.qmd
+        href: "index.qmd"
+        
+    right:
+      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+        href: https://bsky.app/profile/zhilinsu.bsky.social 
+        rel: me
+  
+  page-footer:
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Zhilin Su</span>
+      <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
+    center: |
+      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
+  
 format:
   html:
-    theme: css/theme.scss
+    theme: css/ath.scss
+    grid: 
+      body-width: 900px
     anchor-sections: true
-    smooth-scroll: true
-    link-external-newwindow: true
-    link-external-icon: false
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
     
 editor: source
 
