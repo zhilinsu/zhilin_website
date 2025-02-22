@@ -48,12 +48,11 @@ $dark:      $black !default;
 $font-family-sans-serif: -apple-system, BlinkMacSystemFont, 
 "Arial", "Roboto", "Helvetica Neue", Arial, sans-serif !default;
 
-$headings-font-family: "Avenir Next" !default;
+$headings-font-family: "Jost", Arial, sans-serif !default;
 $headings-font-weight: 600 !default;
 
-$navbar-font-family: 
--apple-system, BlinkMacSystemFont, 
-"Arial", "Roboto", "Helvetica Neue", Arial, sans-serif !default;
+$navbar-font-family: "Jost", Arial, sans-serif !default;
+$navbar-font-weight: 600 !default;
 
 $toc-font-family: 
 -apple-system, BlinkMacSystemFont, 
@@ -98,7 +97,7 @@ $footer-fg: $gray-300 !default;
 
 /*-- scss:rules --*/
 
-$web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap" !default;
+$web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900" !default;
 
 @if $web-font-path {
     @import url($web-font-path);
@@ -142,6 +141,10 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .navbar {
     font-family: $navbar-font-family;
+}
+
+.navbar-brand {
+    font-weight: 700; 
 }
 
 // Put all the icons in a single row in the hamburger menu
