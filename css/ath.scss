@@ -18,7 +18,7 @@ $gray-800: #373a3c !default;
 $gray-900: #212529 !default;
 $black:    #000000 !default;
 
-$blue:    #2780e3 !default;
+$blue:    #345995 !default;
 $indigo:  #6610f2 !default;
 $purple:  #170C3A !default;
 $pink:    #A52C60 !default;
@@ -26,7 +26,8 @@ $red:     #CF4446 !default;
 $orange:  #EE6A24 !default;
 $light-orange:  #FB9E07 !default;
 $yellow:  #F6D645 !default;
-$green:   #118230 !default;
+$green:   #66A14C !default;
+$light-green:   #8CC084 !default;
 $teal:    #20c997 !default;
 $cyan:    #3093CF !default;
 
@@ -70,7 +71,7 @@ $footer-font-family:
 $body-color: $gray-900 !default;
 
 // Links
-$link-color: $orange !default;
+$link-color: $green !default;
 $link-decoration: none !default;
 $link-hover-color: $red !default;
 $link-hover-decoration: underline !default;
@@ -80,16 +81,16 @@ $code-bg: $gray-200 !default;
 $code-color: $gray-900 !default;
 
 // Code copy
-$btn-code-copy-color-active: $orange !default;
+$btn-code-copy-color-active: $green !default;
 
 // TOC
-$toc-color: $orange;
+$toc-color: $light-green;
 $toc-font-size: 1em;
 
 // Navbar
-$navbar-bg: $purple !default;
+$navbar-bg: $gray-900 !default;
 $navbar-fg: $white !default;
-$navbar-hl: $light-orange !default;
+$navbar-hl: $light-green !default;
 
 // Footer
 $footer-bg: $gray-900 !default;
@@ -207,7 +208,7 @@ pre.text, pre.sourceCode, .cell-output pre {
     font-family: $footer-font-family;
 
     a {
-        color: $light-orange;
+        color: $green;
     }
 
     .faux-block {
@@ -658,8 +659,8 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .cv-download {
     font-family: $headings-font-family;
-    background-color: #821C28;
-    border-color: #821C28;
+    background-color: #8CC084;
+    border-color: #8CC084;
     color: $white;
 
     &:hover {

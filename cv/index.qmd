@@ -2,7 +2,7 @@
 title: Curriculum vitae
 description: "Zhilin Su's CV"
 date: 2025-02-21
-title-block-banner: "#821C28"
+title-block-banner: "#8CC084"
 published-title: CV last updated
 engine: knitr
 freeze: false
