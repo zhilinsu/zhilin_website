@@ -1,0 +1,19 @@
+---
+title: "Research"
+listing: 
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    template: template/listing.ejs
+    categories: false 
+page-layout: full
+include-back-link: false
+toc-location: right
+---
+
+I study social learning and group decision-making. 
+
+## Journal articles
+
+:::{#articles}
+:::

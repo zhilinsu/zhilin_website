@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://zhilinsu.com/research/index.html</loc>
+    <lastmod>2025-02-22T22:58:48.682Z</lastmod>
+  </url>
+  <url>
     <loc>https://zhilinsu.com/index.html</loc>
     <lastmod>2025-02-22T14:56:34.750Z</lastmod>
   </url>
   <url>
-    <loc>https://zhilinsu.com/about.html</loc>
-    <lastmod>2025-02-08T21:04:44.652Z</lastmod>
+    <loc>https://zhilinsu.com/cv/index.html</loc>
+    <lastmod>2025-02-22T20:50:50.830Z</lastmod>
   </url>
   <url>
-    <loc>https://zhilinsu.com/cv/index.html</loc>
-    <lastmod>2025-02-22T14:56:13.057Z</lastmod>
+    <loc>https://zhilinsu.com/research/articles/2024_Su_Commun_Psychol/index.html</loc>
+    <lastmod>2025-02-22T23:41:13.624Z</lastmod>
   </url>
 </urlset>

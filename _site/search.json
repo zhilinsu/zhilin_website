@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "I study social learning and group decision-making."
+  },
+  {
+    "objectID": "research/index.html#journal-articles",
+    "href": "research/index.html#journal-articles",
+    "title": "Research",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\n\n    \n        \n            \n                Zhilin Su*, Mona M. Garvert, Lei Zhang, Sanjay G. Manohar, Todd A. Vogel, Louisa Thomas, Joshua H. Balsters, Masud Husain, Matthew A. J. Apps, & Patricia L. Lockwood*. (2024). Older adults are relatively more susceptible to impulsive social influence than young adults Communications Psychology, 2(1), 87. 10.1038/s44271-024-00134-0\n            \n\n            \n            \n                \n                    \n                            ageing\n                        \n                    \n                    \n                            social influence\n                        \n                    \n                    \n                            temporal discounting\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                People are more swayed\n            \n                 / by impulsive others\n            \n                 / in later life\n            \n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             Preprint\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Final version\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Data/Code\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             Add to Zotero\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello there!",
@@ -7,17 +21,38 @@
     "text": "I am a third-year PhD student in Psychology at the Centre for Human Brain Health, University of Birmingham, funded by the Government Scholarship for Overseas Study (公費留學獎學金) from the Ministry of Education in Taiwan.\nUnder the supervision of Prof. Patricia Lockwood, Prof. Matthew Apps, and Dr Todd Vogel, my research investigates the behavioural, computational and neural mechanisms underlying social learning and group decision-making in health, disease, and development. Currently, I am using Bayesian computational modelling to examine the causal role of mPFC in people’s susceptibility to social influence."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "cv/index.html",
     "href": "cv/index.html",
     "title": "Curriculum vitae",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "research/articles/2024_Su_Commun_Psychol/index.html",
+    "href": "research/articles/2024_Su_Commun_Psychol/index.html",
+    "title": "Older adults are relatively more susceptible to impulsive social influence than young adults",
+    "section": "",
+    "text": "People differ in their levels of impulsivity and patience, and these preferences are heavily influenced by others. Previous research suggests that susceptibility to social influence may vary with age, but the mechanisms and whether people are more influenced by patience or impulsivity remain unknown. Here, using a delegated inter-temporal choice task and Bayesian computational models, we tested susceptibility to social influence in young (aged 18–36, N=76) and older (aged 60–80, N=78) adults. Participants completed a temporal discounting task and then learnt the preferences of two other people (one more impulsive and one more patient) before making their choices again. We used the signed Kullback-Leibler divergence to quantify the magnitude and direction of social influence. We found that, compared to young adults, older adults were relatively more susceptible to impulsive social influence. Factor analyses showed that older adults with higher self-reported levels of affective empathy and emotional motivation were particularly susceptible to impulsive influence. Importantly, older and young adults showed similar learning accuracy about others’ preferences, and their baseline impulsivity did not differ. Together, these findings suggest highly affectively empathetic and emotionally motivated older adults may be at higher risk for impulsive decisions, due to their susceptibility to social influence."
+  },
+  {
+    "objectID": "research/articles/2024_Su_Commun_Psychol/index.html#abstract",
+    "href": "research/articles/2024_Su_Commun_Psychol/index.html#abstract",
+    "title": "Older adults are relatively more susceptible to impulsive social influence than young adults",
+    "section": "",
+    "text": "People differ in their levels of impulsivity and patience, and these preferences are heavily influenced by others. Previous research suggests that susceptibility to social influence may vary with age, but the mechanisms and whether people are more influenced by patience or impulsivity remain unknown. Here, using a delegated inter-temporal choice task and Bayesian computational models, we tested susceptibility to social influence in young (aged 18–36, N=76) and older (aged 60–80, N=78) adults. Participants completed a temporal discounting task and then learnt the preferences of two other people (one more impulsive and one more patient) before making their choices again. We used the signed Kullback-Leibler divergence to quantify the magnitude and direction of social influence. We found that, compared to young adults, older adults were relatively more susceptible to impulsive social influence. Factor analyses showed that older adults with higher self-reported levels of affective empathy and emotional motivation were particularly susceptible to impulsive influence. Importantly, older and young adults showed similar learning accuracy about others’ preferences, and their baseline impulsivity did not differ. Together, these findings suggest highly affectively empathetic and emotionally motivated older adults may be at higher risk for impulsive decisions, due to their susceptibility to social influence."
+  },
+  {
+    "objectID": "research/articles/2024_Su_Commun_Psychol/index.html#key-figures",
+    "href": "research/articles/2024_Su_Commun_Psychol/index.html#key-figures",
+    "title": "Older adults are relatively more susceptible to impulsive social influence than young adults",
+    "section": "Key figures",
+    "text": "Key figures\n\n\n\nFigure 2a: Older adults were relatively more inﬂuenced by impulsive social inﬂuence than young adults.\n\n\n\n\n\nFigure 2c: Example of shifts in self discounting distributions after learning about the preferences of an Impulsive Other and a Patient Other."
+  },
+  {
+    "objectID": "research/articles/2024_Su_Commun_Psychol/index.html#citation",
+    "href": "research/articles/2024_Su_Commun_Psychol/index.html#citation",
+    "title": "Older adults are relatively more susceptible to impulsive social influence than young adults",
+    "section": "Citation",
+    "text": "Citation\n\n  Add to Zotero \n\n@article{su2024older,\n    title = {Older Adults Are Relatively More Susceptible to Impulsive Social Influence than Young Adults},\n    author = {Su, Zhilin and Garvert, Mona M. and Zhang, Lei and Manohar, Sanjay G. and Vogel, Todd A. and Thomas, Louisa and Balsters, Joshua H. and Husain, Masud and Apps, Matthew A. J. and Lockwood, Patricia L.},\n    doi = {10.1038/s44271-024-00134-0},\n    journal = {Communications Psychology},\n    year = {2024},\n    volume = {2},\n    number = {1},\n    pages = {87}"
   }
 ]
