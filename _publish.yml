@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: fa8ebac1-aaa8-4fbf-abe7-9361429df562
+      url: https://zhilinsu.com
