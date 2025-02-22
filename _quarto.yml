@@ -1,8 +1,6 @@
 project:
   type: website
-  
-  output-dir: _site
-  
+
   preview:
     port: 5555
     browser: true
@@ -10,7 +8,9 @@ project:
     navigate: true
     
   render:
-    - "index.qmd"
+    - "*.qmd"
+    - "*.md"
+    - "!etc/"
     
   resources:
     - "attachments/**"
@@ -42,6 +42,8 @@ website:
     left:
       - text: "About"
         href: "index.qmd"
+      - text: "CV"
+        href: "cv/index.qmd"
         
     right:
       - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
