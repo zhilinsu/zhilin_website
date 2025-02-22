@@ -208,7 +208,7 @@ pre.text, pre.sourceCode, .cell-output pre {
     font-family: $footer-font-family;
 
     a {
-        color: $green;
+        color: $light-green;
     }
 
     .faux-block {
@@ -659,8 +659,8 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .cv-download {
     font-family: $headings-font-family;
-    background-color: #8CC084;
-    border-color: #8CC084;
+    background-color: #66A14C;
+    border-color: #66A14C;
     color: $white;
 
     &:hover {
