@@ -44,14 +44,15 @@ $dark:      $black !default;
 // Fonts
 
 
-$font-family-sans-serif: "Roboto" !default;
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, 
+"Arial", "Roboto", "Helvetica Neue", Arial, sans-serif !default;
 
-$headings-font-family: "Jost" !default;
+$headings-font-family: "Avenir Next" !default;
 $headings-font-weight: 600 !default;
 
-$navbar-font-family: "Roboto" !default;
-$toc-font-family: "Roboto" !default;
-$footer-font-family: "Roboto" !default;
+$navbar-font-family: "SF Pro" !default;
+$toc-font-family: "SF Pro" !default;
+$footer-font-family: "SF Pro" !default;
 
 // $font-size-base: 1.1rem !default; // Assumes the browser default, typically `16px`
 // $font-size-sm: $font-size-base * .875 !default;
