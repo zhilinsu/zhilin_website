@@ -1,0 +1,7 @@
+{% if page.pub_info and page.pub_info.links %}
+  {% for link in page.pub_info.links %}
+    <a href="{{ link.url }}" {% if link.target %}target="{{ link.target }}" rel="noopener noreferrer"{% endif %}>
+      {{ link.name }}
+    </a>
+  {% endfor %}
+{% endif %}

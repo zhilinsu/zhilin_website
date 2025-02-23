@@ -73,7 +73,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-9e228d6d4d66c12a9d11739da31c2b1c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-5f8e3bcbf659bc2ad88a6fef8f37dc48.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-e8c1f54a0d6eb30bef0ddb08efbdac51.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../../site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
 <link href="../../../site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <link href="../../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
@@ -153,6 +153,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="mailto:zhilinsu1312@gmail.com"> 
+<span class="menu-text"><iconify-icon inline="" icon="bi:envelope" style="font-size: 1.1em;" aria-label="Icon envelope from bi Iconify.design set." title="E-mail"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/zhilinsu" rel="me"> 
+<span class="menu-text"><iconify-icon inline="" icon="bi:github" style="font-size: 1.1em;" aria-label="Icon github from bi Iconify.design set." title="GitHub"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="https://bsky.app/profile/zhilinsu.bsky.social" rel="me"> 
 <span class="menu-text"><iconify-icon inline="" icon="fa6-brands:bluesky" style="font-size: 1.1em;" aria-label="Icon bluesky from fa6-brands Iconify.design set." title="Bluesky"></iconify-icon></span></a>
   </li>  
@@ -186,11 +194,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     
         <div class="project-details">
         <div class="publication-content">
-            <p><strong>Zhilin Su</strong><em>, Mona M. Garvert, Lei Zhang, Sanjay G. Manohar, Todd A. Vogel, Louisa Thomas, Joshua H. Balsters, Masud Husain, Matthew A. J. Apps, &amp; Patricia L. Lockwood</em>. (2024). Older adults are relatively more susceptible to impulsive social influence than young adults <em><strong>Communications Psychology</strong>, 2</em>(1), 87. <a href="https://doi.org/10.1038/s44271-024-00134-0">10.1038/s44271-024-00134-0</a></p>
+            <p><strong>Zhilin Su</strong><em>, Mona M. Garvert, Lei Zhang, Sanjay G. Manohar, Todd A. Vogel, Louisa Thomas, Joshua H. Balsters, Masud Husain, Matthew A. J. Apps, &amp; Patricia L. Lockwood</em>. (2024). Older adults are relatively more susceptible to impulsive social influence than young adults. <em><strong>Communications Psychology</strong>, 2</em>(1), 87. <a href="https://doi.org/10.1038/s44271-024-00134-0">10.1038/s44271-024-00134-0</a></p>
         </div>
                 <ul class="project-links">
                         <li class="project-link">
-                <a href="manuscript_social_discounting_ageing_final_preprint.pdf"><i class="fa-solid fa-file-pdf"></i> Preprint</a>
+                <a href="https://osf.io/preprints/psyarxiv/zdr7q_v1"><i class="fa-solid fa-file-pdf"></i> Preprint</a>
             </li>
                         <li class="project-link">
                 <a href="https://doi.org/10.1038/s44271-024-00134-0"><i class="fa-solid fa-scroll"></i> Final version</a>
@@ -479,6 +487,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

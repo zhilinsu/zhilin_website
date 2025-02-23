@@ -50,13 +50,13 @@ pub-info:
     <strong>Zhilin Su</strong>*, 
     Mona M. Garvert, Lei Zhang, Sanjay G. Manohar, Todd A. Vogel, Louisa Thomas, Joshua H. Balsters, 
     Masud Husain, Matthew A. J. Apps, & Patricia L. Lockwood*. 
-    (2024). Older adults are relatively more susceptible to impulsive social influence than young adults <em><strong>Communications Psychology</strong>, 2</em>(1), 87.
+    (2024). Older adults are relatively more susceptible to impulsive social influence than young adults. <em><strong>Communications Psychology</strong>, 2</em>(1), 87.
     <a href="https://doi.org/10.1038/s44271-024-00134-0">10.1038/s44271-024-00134-0</a>
   links:
     - name: Preprint
-      url: manuscript_social_discounting_ageing_final_preprint.pdf
+      url: https://osf.io/preprints/psyarxiv/zdr7q_v1
       icon: fa-solid fa-file-pdf
-      local: true
+      target: _blank
     - name: Final version
       url: https://doi.org/10.1038/s44271-024-00134-0
       icon: fa-solid fa-scroll
@@ -71,6 +71,9 @@ haiku:
   - People are more swayed 
   - by impulsive others 
   - in later life
+format:
+  html:
+    template-partials: ../../template/title-block.html
 ---
 
 ## Abstract 

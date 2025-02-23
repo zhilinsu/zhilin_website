@@ -48,6 +48,11 @@ website:
         file: research/index.qmd
         
     right:
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+        href: "mailto:zhilinsu1312@gmail.com"
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
+        href: https://github.com/zhilinsu
+        rel: me
       - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
         href: https://bsky.app/profile/zhilinsu.bsky.social 
         rel: me
@@ -73,6 +78,7 @@ format:
     reference-location: margin
     footnotes-hover: true
     highlight-style: monokai
+    link-external-newwindow: true
     
 editor: source
 

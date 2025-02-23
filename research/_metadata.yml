@@ -21,3 +21,4 @@ format:
   html:
     template-partials:
       - template/title-block.html
+      - template/external.html
