@@ -46,6 +46,8 @@ website:
         href: "cv/index.qmd"
       - text: "Research"
         file: research/index.qmd
+      - text: "Blog"
+        file: blog/index.qmd
         
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
@@ -82,6 +84,7 @@ format:
     footnotes-hover: true
     highlight-style: monokai
     link-external-newwindow: true
-    
+    link-hover-preview: true
+
 editor: source
 

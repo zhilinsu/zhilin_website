@@ -396,7 +396,7 @@ nav#TOC {
 }
 
 .content {
-    p {
+    p, li {
         line-height: 1.6;  
     }
 }
@@ -696,4 +696,31 @@ nav#TOC {
     @media (max-width: map-get($grid-breakpoints, md)) {
         left: 0;
     }
+}
+
+.quote-with-lines {
+  position: relative;
+  margin: 0 0 1em;
+  padding: 1.2em 0 0.5em;  /* 稍微減少下方的 padding */
+  font-style: italic;
+  line-height: 1.4;
+  display: block;
+}
+
+.quote-with-lines::before,
+.quote-with-lines::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 1.5px;
+  background-color: #e2e8f0;
+}
+
+.quote-with-lines::before {
+  top: 0;
+}
+
+.quote-with-lines::after {
+  bottom: 0;
 }
