@@ -32,10 +32,14 @@ website:
   
   #google-analytics: "XXX"
   
-  open-graph: 
-    image: "/attachments/profile/profile.jpg"
-    locale: en_GB
-    
+  twitter-card: 
+    image: "attachments/profile/zhilin-circle.webp"
+    card-style: summary_large_image
+    creator: "@zhilinsu"
+    site: "@zhilinsu"
+  
+  open-graph: true
+
   navbar:
     pinned: true
     

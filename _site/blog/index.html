@@ -107,13 +107,41 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
+      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
+      
+      searchColumns: [],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-posts_2024'] = new List('listing-posts_2024', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-posts_2022 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
       valueNames: ['listing-project','listing-freeze','listing-bibliography','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-editor','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-author','listing-title','listing-description','listing-date','listing-date-modified','listing-image','listing-twitter-card','listing-open-graph','listing-categories','listing-path','listing-outputHref','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
       searchColumns: ["listing-project","listing-freeze","listing-bibliography","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-editor","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-author","listing-title","listing-description","listing-date","listing-date-modified","listing-image","listing-twitter-card","listing-open-graph","listing-categories","listing-path","listing-outputHref","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-posts_2024'] = new List('listing-posts_2024', options);
+    window['quarto-listings']['listing-posts_2022'] = new List('listing-posts_2022', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -159,9 +187,15 @@ window.Quarto = {
 </script>
 <meta property="og:title" content="Blog | Zhilin Su">
 <meta property="og:description" content="Zhilin Su’s blog">
-<meta property="og:image" content="https://zhilinsu.com/attachments/profile/profile.jpg">
+<meta property="og:image" content="https://zhilinsu.com/blog/2022/04/06/img/uob.webp">
 <meta property="og:site_name" content="Zhilin Su | 蘇致霖">
-<meta property="og:locale" content="en_GB">
+<meta property="og:image:alt" content="2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)">
+<meta name="twitter:title" content="Blog | Zhilin Su">
+<meta name="twitter:description" content="Zhilin Su’s blog">
+<meta name="twitter:image" content="https://zhilinsu.com/blog/attachments/profile/zhilin-circle.webp">
+<meta name="twitter:creator" content="@zhilinsu">
+<meta name="twitter:site" content="@zhilinsu">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="nav-fixed">
 
@@ -245,7 +279,7 @@ window.Quarto = {
    
   <ul>
 <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2025</a></li>
-  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2024</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2022</a></li>
   </ul></nav>
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFuZGFyaW4=">Mandarin <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGhE">PhD <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VUs=">UK <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
@@ -265,16 +299,16 @@ window.Quarto = {
 No matching items
 </div>
 </div>
-</section><section id="section-1" class="level2"><h2 class="anchored" data-anchor-id="section-1">2024</h2>
-<div id="listing-posts_2024" class="quarto-listing quarto-listing-container-custom">
+</section><section id="section-1" class="level2"><h2 class="anchored" data-anchor-id="section-1">2022</h2>
+<div id="listing-posts_2022" class="quarto-listing quarto-listing-container-custom">
 <div class="list blog">
     
-    <div class="blog-entry" data-index="0" data-categories="UGhEJTJDVUslMkNNYW5kYXJpbg==" data-listing-date-sort="1729638000000" data-listing-file-modified-sort="1740342790910" data-listing-date-modified-sort="1740342790000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1005">
+    <div class="blog-entry" data-index="0" data-categories="UGhEJTJDVUslMkNNYW5kYXJpbg==" data-listing-date-sort="1649199600000" data-listing-file-modified-sort="1740343464824" data-listing-date-modified-sort="1740343464000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1005">
         <div class="metadata">          
-            <p class="date listing-date">23 October 2024</p>
+            <p class="date listing-date">06 April 2022</p>
         </div>
         <div class="body">
-            <p class="title listing-title"><a href="../blog/2024/10/23/index.html">2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)</a></p>
+            <p class="title listing-title"><a href="../blog/2022/04/06/index.html">2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)</a></p>
 
             
             <div class="post-categories listing-categories">
@@ -300,7 +334,7 @@ No matching items
         </div>
         
         <div class="thumbnail">
-            <img src="../blog/2024/10/23/img/uob.webp" alt="2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)" title="2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)">
+            <img src="../blog/2022/04/06/img/uob.webp" alt="2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)" title="2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)">
 </div>
         
     </div>
@@ -313,7 +347,14 @@ No matching items
 
 
 
-</section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+</section><div class="quarto-listing quarto-listing-container-custom" id="listing-posts_2024">
+<div class="list blog">
+    
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");

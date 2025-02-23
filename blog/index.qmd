@@ -13,6 +13,11 @@ listing:
     sort: "date desc"
     template: template/listing.ejs
     categories: true
+  - id: posts_2022
+    contents: "2022/**/index.qmd"
+    sort: "date desc"
+    template: template/listing.ejs
+    categories: true
 page-layout: full
 toc-title: Year
 toc-location: right
@@ -34,7 +39,7 @@ freeze: false
 :::{#posts_2025}
 :::
 
-## 2024
+## 2022
 
-:::{#posts_2024}
+:::{#posts_2022}
 :::

@@ -7,6 +7,7 @@ title-block-banner: "#66A14C"
 published-title: CV last updated
 engine: knitr
 freeze: false
+page-layout: full
 cv:
   pdf: "20250221_CV_zhilin_su.pdf"
 ---

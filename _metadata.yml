@@ -1,0 +1,5 @@
+share:
+  twitter: true
+  facebook:
+    card: summary_large_image
+  linkedin: true

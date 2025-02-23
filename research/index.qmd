@@ -5,12 +5,11 @@ listing:
     contents: "articles/*/index.qmd"
     sort: "date desc"
     template: template/listing.ejs
-    categories: false 
+    categories: true 
   - id: book-chapters 
     contents: "chapters/*/index.qmd"
     sort: "data desc" 
     template: template/listing.ejs 
-    categories: false
 page-layout: full
 include-back-link: false
 toc-location: right
