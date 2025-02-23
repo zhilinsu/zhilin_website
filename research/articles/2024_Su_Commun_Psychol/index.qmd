@@ -70,7 +70,7 @@ doi: 10.1038/s44271-024-00134-0
 haiku:
   - People are more swayed 
   - by impulsive others 
-  - in later life
+  - in later life.
 format:
   html:
     template-partials: ../../template/title-block.html

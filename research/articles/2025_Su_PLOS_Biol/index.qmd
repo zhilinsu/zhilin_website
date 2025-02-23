@@ -1,0 +1,89 @@
+---
+title: "Dorsomedial and ventromedial prefrontal cortex lesions differentially impact social influence and temporal discounting"
+date: 2025-02-21
+author:
+  - name: Zhilin Su
+    orcid: 0000-0001-6941-0970
+    affiliation: Centre for Human Brain Health, University of Birmingham
+  - name: Mona M. Garvert
+    url: https://www.garvertlab.com/start
+    orcid: 0000-0002-8678-5536
+    affiliation: Faculty of Human Sciences, University of Würzburg
+  - name: Lei Zhang 
+    url: https://lei-zhang.net/
+    orcid: 0000-0002-9586-595X 
+    affiliation: Centre for Human Brain Health, University of Birmingham
+  - name: Todd A. Vogel 
+    url: https://scholar.google.ca/citations?user=Yh8kB9MAAAAJ&hl=en
+    orcid: 0000-0003-0895-3845
+    affiliation: Centre for Human Brain Health, University of Birmingham
+  - name: Jo Cutler 
+    url: https://www.jocutler.com/
+    orcid: 0000-0003-1073-764X
+    affiliation: Centre for Human Brain Health, University of Birmingham
+  - name: Masud Husain
+    url: https://www.masudhusain.org/
+    orcid: 0000-0002-6850-9255
+    affiliation: Nuffield Department of Clinical Neurosciences, University of Oxford
+  - name: Sanjay G. Manohar
+    url: https://smanohar.com/ 
+    orcid: 0000-0003-0735-4349
+    affiliation: Nuffield Department of Clinical Neurosciences, University of Oxford
+  - name: Patricia L. Lockwood
+    url: https://www.sdn-lab.org/
+    orcid: 0000-0001-7195-9559
+    affiliation: Centre for Human Brain Health, University of Birmingham
+categories:
+  - medial prefrontal cortex (mPFC)
+  - lesion 
+  - social influence 
+  - temporal discounting 
+pub-info:
+  reference: >-
+    <strong>Zhilin Su</strong>&ast;, 
+    Mona M. Garvert, Lei Zhang, Todd A. Vogel, Jo Cutler, 
+    Masud Husain, Sanjay G. Manohar, & Patricia L. Lockwood&ast;. 
+    (<em>accepted</em>). Dorsomedial and ventromedial prefrontal cortex lesions differentially impact social influence and temporal discounting. <em><strong>PLOS Biology</strong></em>.
+    <a href="https://osf.io/preprints/psyarxiv/7dy9f">https://osf.io/preprints/psyarxiv/7dy9f</a>. 
+  links:
+    - name: Preprint
+      url: https://osf.io/preprints/psyarxiv/7dy9f
+      icon: fa-solid fa-file-pdf
+      target: _blank
+    - name: Data/Code
+      url: https://osf.io/qzurp/
+      icon: ai ai-osf
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.31234/osf.io/7dy9f_v2
+      icon: ai ai-zotero
+doi: 10.31234/osf.io/7dy9f_v2
+haiku:
+  - Dorsomedial damage, 
+  - alters social influence;
+  - ventromedial shifts discounting.
+format:
+  html:
+    template-partials: ../../template/title-block.html
+---
+
+## Abstract 
+
+The medial prefrontal cortex (mPFC) has long been associated with economic and social decision-making in neuroimaging studies. Several debates question whether different ventromedial PFC (vmPFC) and dorsomedial PFC (dmPFC) regions have specific functions or whether there is a gradient supporting social and non-social cognition. Here, we tested an unusually large sample of rare participants with focal damage to mPFC (*N* = 33), individuals with lesions elsewhere (*N* = 17), and healthy controls (*N* = 71) (total *N* = 121). Participants completed a temporal discounting task to estimate their baseline discounting preferences before learning the preferences of two other people, one who was more temporally impulsive and one more patient. We used Bayesian computational models to estimate baseline discounting and susceptibility to social influence after learning others’ economic preferences. mPFC damage increased susceptibility to impulsive social influence compared to healthy controls and increased overall susceptibility to social influence compared to those with lesions elsewhere. Importantly, voxel-based lesion-symptom mapping (VLSM) of computational parameters showed that this heightened susceptibility to social influence was attributed specifically to damage to the dorsomedial prefrontal cortex (dmPFC, area 9; permutationbased threshold free cluster enhancement (TFCE) *p* < 0.025). In contrast, lesions in the vmPFC (areas 13 and 25) and ventral striatum were associated with a preference for seeking more immediate rewards (permutation-based TFCE *p* < 0.05). We show that the dmPFC is causally implicated in susceptibility to social influence, with distinct ventral portions of mPFC involved in temporal discounting. These findings provide causal evidence for sub-regions of the mPFC underpinning fundamental social and cognitive processes.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-success" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1038/s44271-024-00134-0" style="color: white !important;">{{< ai zotero >}} \ Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{su2025dorsomedial,
+    title = {Dorsomedial and ventromedial prefrontal cortex lesions differentially impact social influence and temporal discounting},
+    author = {Su, Zhilin and Garvert, Mona M. and Zhang, Lei and Vogel, Todd A. and Cutler, Jo and Husain, Masud and Manohar, Sanjay G. and Lockwood, Patricia L.},
+    doi = {},
+    journal = {PLOS Biology},
+    year = {},
+    volume = {},
+    number = {},
+    pages = {}
+```
