@@ -31,6 +31,11 @@ format:
 
 ::: {.g-col-12 .g-col-sm-8}
 
+::: {.text-center}
+## *How do people learn about others, learn from others, and make decision with others?*
+:::
+
+
 I am a third-year PhD student in Psychology at the [Centre for Human Brain Health](https://www.birmingham.ac.uk/research/centres-institutes/human-brain-health), [University of Birmingham](https://www.birmingham.ac.uk/), 
 funded by the Government Scholarship for Overseas Study (公費留學獎學金) from the Ministry of Education in Taiwan.
 

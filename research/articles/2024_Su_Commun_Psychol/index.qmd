@@ -47,11 +47,11 @@ categories:
   - temporal discounting 
 pub-info:
   reference: >-
-    <strong>Zhilin Su</strong>*, 
+    <strong>Zhilin Su</strong>&ast;, 
     Mona M. Garvert, Lei Zhang, Sanjay G. Manohar, Todd A. Vogel, Louisa Thomas, Joshua H. Balsters, 
-    Masud Husain, Matthew A. J. Apps, & Patricia L. Lockwood*. 
+    Masud Husain, Matthew A. J. Apps, & Patricia L. Lockwood&ast;. 
     (2024). Older adults are relatively more susceptible to impulsive social influence than young adults. <em><strong>Communications Psychology</strong>, 2</em>(1), 87.
-    <a href="https://doi.org/10.1038/s44271-024-00134-0">10.1038/s44271-024-00134-0</a>
+    <a href="https://doi.org/10.1038/s44271-024-00134-0">10.1038/s44271-024-00134-0</a>. 
   links:
     - name: Preprint
       url: https://osf.io/preprints/psyarxiv/zdr7q_v1
@@ -82,9 +82,9 @@ People differ in their levels of impulsivity and patience, and these preferences
 
 ## Key figures 
 
-![Figure 2a: Older adults were relatively more inﬂuenced by impulsive social inﬂuence than young adults.](figure2a.png){width=75%}
+![Figure 2a: Older adults were relatively more inﬂuenced by impulsive social inﬂuence than young adults.](figure2a.webp){width=75%}
 
-![Figure 2c: Example of shifts in self discounting distributions after learning about the preferences of an Impulsive Other and a Patient Other.](figure2c.png){width=75%}
+![Figure 2c: Example of shifts in self discounting distributions after learning about the preferences of an Impulsive Other and a Patient Other.](figure2c.webp){width=75%}
 
 ## Citation
 

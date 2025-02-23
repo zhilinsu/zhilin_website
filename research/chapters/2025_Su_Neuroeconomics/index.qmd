@@ -1,0 +1,72 @@
+---
+title: "The neuroeconomics of social influence and contagion"
+date: 2025-01-17
+author:
+  - name: Zhilin Su
+    orcid: 0000-0001-6941-0970
+    affiliation: Centre for Human Brain Health, University of Birmingham
+  - name: Patricia L. Lockwood
+    url: https://www.sdn-lab.org/
+    orcid: 0000-0001-7195-9559
+    affiliation: Centre for Human Brain Health, University of Birmingham
+
+categories:
+  - effort
+  - neuroeconomics 
+  - risk-taking
+  - social influence 
+  - temporal discounting 
+
+pub-info:
+  reference: >-
+    <strong>Zhilin Su</strong>&ast; & Patricia L. Lockwood&ast;. 
+    (<em>in press</em>). The neuroeconomics of social influence and contagion.
+    In Fareri, D, S., Smith, D. V., & Lockwood, P. L. (Eds), 
+    <em>Neuroeconomics: Core topics and current directions</em>.
+    Springer Nature. 
+    <a href="https://osf.io/preprints/psyarxiv/tgmj3">https://osf.io/preprints/psyarxiv/tgmj3</a>. 
+  links:
+    - name: Preprint
+      url: https://osf.io/preprints/psyarxiv/tgmj3
+      icon: fa-solid fa-file-pdf
+      target: _blank
+    - name: Add to Zotero
+      url: https://www.zotero.org/save?type=doi&q=10.31234/osf.io/tgmj3_v1
+      icon: ai ai-zotero
+doi: 10.31234/osf.io/tgmj3_v1
+haiku:
+  - Economic preferences 
+  - are all influenced 
+  - by others. 
+format:
+  html:
+    template-partials: ../../template/title-block.html
+---
+
+## Abstract 
+
+People often adjust their behaviours and preferences to align with others, a phenomenon termed social inﬂuence or social contagion. Social inﬂuence can have a profound effect on our economic preferences, with important implications for ﬁnancial decision-making and making rational choices. Here we review recent ﬁndings in neuroeconomics, elucidating the psychological, computational, and neural mechanisms that underpin social inﬂuence during value-based decision-making. We examine how others’ decisions can shift our own economic preferences, regarding risk-taking, temporal discounting, effort discounting, and moral preferences. Additionally, we discuss the lifespan similarities and differences in susceptibility to social inﬂuence. Finally, we cover studies revealing the neural basis of susceptibility to social inﬂuence and highlight key common brain areas across studies that could underpin these effects. We end by considering the implications of strong evidence of susceptibility to social inﬂuence on economic preferences, the challenges and opportunities of this inﬂuence and how future studies could harness it to create positive changes across the lifespan.
+
+## Key figures 
+
+![Figure 1: Experimental tasks to measure different types of economic preferences.](figure1.webp)
+
+![Figure 2: Illustration of a shift in one’s own economic preferences (Self) following social inﬂuence (Others).](figure2.webp){width=75%}
+
+![Figure 3: Locations of neural responses during social influence and contagion of economic preferences from functional and structural neuroimaging studies.](figure3.webp){width=75%}
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-success" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1038/s44271-024-00134-0" style="color: white !important;">{{< ai zotero >}} \ Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@misc{su2025neuroeconomics,
+    title = {The Neuroeconomics of Social Influence and Contagion},
+    author = {Su, Zhilin and Lockwood, Patricia}, 
+    year = {2025}, 
+    month = jan, 
+    publisher = {PsyArxiv}, 
+    doi = {10.31234/osf.io/tgmj3}
+```

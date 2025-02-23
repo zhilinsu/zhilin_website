@@ -6,14 +6,24 @@ listing:
     sort: "date desc"
     template: template/listing.ejs
     categories: false 
+  - id: book-chapters 
+    contents: "chapters/*/index.qmd"
+    sort: "data desc" 
+    template: template/listing.ejs 
+    categories: false
 page-layout: full
 include-back-link: false
 toc-location: right
 ---
 
-I study social learning and group decision-making. 
+My research investigates the behavioural, computational and neural mechanisms of social learning and group decision-making across health, disease and development. 
 
 ## Journal articles
 
 :::{#articles}
+:::
+
+## Book chapters 
+
+:::{#book-chapters}
 :::
