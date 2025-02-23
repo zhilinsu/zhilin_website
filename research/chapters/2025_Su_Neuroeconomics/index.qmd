@@ -58,7 +58,7 @@ People often adjust their behaviours and preferences to align with others, a phe
 ## Citation
 
 <p class="buttons" style="text-align:center;">
-<a class="btn btn-success" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1038/s44271-024-00134-0" style="color: white !important;">{{< ai zotero >}} \ Add to Zotero {{< fa square-arrow-up-right >}}</a>
+<a class="btn btn-success" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.31234/osf.io/tgmj3_v1" style="color: white !important;">{{< ai zotero >}} \ Add to Zotero {{< fa square-arrow-up-right >}}</a>
 </p>
 
 ```bibtex

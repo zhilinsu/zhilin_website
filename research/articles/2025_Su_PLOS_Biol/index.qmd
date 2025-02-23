@@ -73,7 +73,7 @@ The medial prefrontal cortex (mPFC) has long been associated with economic and s
 ## Citation
 
 <p class="buttons" style="text-align:center;">
-<a class="btn btn-success" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1038/s44271-024-00134-0" style="color: white !important;">{{< ai zotero >}} \ Add to Zotero {{< fa square-arrow-up-right >}}</a>
+<a class="btn btn-success" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.31234/osf.io/7dy9f_v2" style="color: white !important;">{{< ai zotero >}} \ Add to Zotero {{< fa square-arrow-up-right >}}</a>
 </p>
 
 ```bibtex
