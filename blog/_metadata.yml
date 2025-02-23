@@ -7,7 +7,7 @@ title-block-banner: "#66A14C"
 # Add blog-post class to the banner header area
 format: 
   html:
-    code-tools: true
+    code-tools: false
     quarto-template-params:
       banner-header-class: "blog-post"
 
