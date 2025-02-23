@@ -1,7 +1,13 @@
 ---
 title: "2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)"
-date: 2024-10-23
 description: "一個不是特別成功的申請歷程"
+date: 2024-10-23
+date-modified: last-modified
+
+author:
+  - name: 蘇致霖
+    url: https://zhilinsu.com/
+    orcid: 0000-0001-6941-0970
 
 image: img/uob.webp
 twitter-card: 

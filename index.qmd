@@ -1,6 +1,6 @@
 ---
 title: "Hello there!"
-pagetitle: "Zhilin Su"
+pagetitle: "Zhilin Su | 蘇致霖"
 description-meta: "Zhilin Su is a PhD student in Psychology at University of Birmingham, studying social learning and group decision-making."
 main-photo: attachments/profile/zhilin-circle.png
 title-block-banner: "#66A14C"

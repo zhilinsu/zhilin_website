@@ -384,6 +384,10 @@ nav#TOC {
         margin-bottom: -3px;
     }
     
+    .quarto-title-meta {
+    line-height: 0.5; 
+    }
+    
     .quarto-title-meta-contents .doi::before {
         content: "";
         background-image: url(/attachments/doi.svg);
