@@ -53,6 +53,9 @@ website:
       - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
         href: https://github.com/zhilinsu
         rel: me
+      - text: "{{< iconify fa6-brands x-twitter size=1.1em title='X' >}}"
+        href: https://x.com/su_zhilin?lang=en
+        rel: me
       - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
         href: https://bsky.app/profile/zhilinsu.bsky.social 
         rel: me
