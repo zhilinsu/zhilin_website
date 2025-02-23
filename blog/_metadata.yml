@@ -1,0 +1,31 @@
+# Date format
+date-format: "dddd, DD MMMM YYYY"
+
+# Enable banner style title blocks
+title-block-banner: "#66A14C"
+
+# Add blog-post class to the banner header area
+format: 
+  html:
+    code-tools: true
+    quarto-template-params:
+      banner-header-class: "blog-post"
+
+# Default for table of contents
+toc: true
+toc-title: Contents
+toc-location: left
+
+freeze: true
+
+# Default knitr options
+execute:
+  echo: true
+  message: true
+  warning: true
+
+# Default author
+author:
+  - name: Zhilin Su
+    url: https://zhilinsu.com/
+    orcid: 0000-0001-6941-0970

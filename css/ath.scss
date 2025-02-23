@@ -166,6 +166,13 @@ pre.text, pre.sourceCode, .cell-output pre {
     }
 }
 
+nav#TOC {
+    .nav-link {
+        line-height: 1.2; 
+    }
+}
+
+
 .sidebar nav[role="doc-toc"]>ul li a {
     padding-top: 0.25rem;
     padding-bottom: 0.25rem;
@@ -332,8 +339,8 @@ pre.text, pre.sourceCode, .cell-output pre {
             margin: 0.5em 0;
 
             .post-category {
-                color: $gray-600;
-                border: 1px solid $gray-500;
+                color: $light-green;
+                border: 1px solid $light-green;
                 border-radius: 0.25rem;
                 text-transform: uppercase;
                 font-size: 0.65em;
@@ -361,13 +368,13 @@ pre.text, pre.sourceCode, .cell-output pre {
 }
 
 .blog-post {
+	  
     .quarto-title .quarto-categories {
         margin-top: 1.5em;
 
         .quarto-category {
-            background-color: shift-color($purple, -25%);
-            border-color: shift-color($purple, -45%);
-            color: $white;
+            background-color: shift-color($light-green, -75%);
+            color: $green;
             font-size: 0.65em;
             opacity: 1;
         }
@@ -388,6 +395,11 @@ pre.text, pre.sourceCode, .cell-output pre {
     }
 }
 
+.content {
+    p {
+        line-height: 1.6;  
+    }
+}
 
 // Research
 .quarto-title-block {
@@ -428,6 +440,10 @@ pre.text, pre.sourceCode, .cell-output pre {
         font-weight: bold;
     }
 
+}
+
+.blog-post p {
+    line-height: 2 !important;
 }
 
 .back-nav {
