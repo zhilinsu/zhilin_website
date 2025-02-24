@@ -3,6 +3,7 @@ title: "The neuroeconomics of social influence and contagion"
 date: 2025-01-17
 author:
   - name: Zhilin Su
+    url: https://zhilinsu.com
     orcid: 0000-0001-6941-0970
     affiliation: Centre for Human Brain Health, University of Birmingham
   - name: Patricia L. Lockwood
@@ -68,5 +69,5 @@ People often adjust their behaviours and preferences to align with others, a phe
     year = {2025}, 
     month = jan, 
     publisher = {PsyArxiv}, 
-    doi = {10.31234/osf.io/tgmj3}
+    doi = {10.31234/osf.io/tgmj3}}
 ```

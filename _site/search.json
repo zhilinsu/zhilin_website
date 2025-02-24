@@ -39,7 +39,7 @@
     "href": "research/articles/2025_Su_PLOS_Biol/index.html#citation",
     "title": "Dorsomedial and ventromedial prefrontal cortex lesions differentially impact social influence and temporal discounting",
     "section": "Citation",
-    "text": "Citation\n\n  Add to Zotero \n\n@article{su2025dorsomedial,\n    title = {Dorsomedial and ventromedial prefrontal cortex lesions differentially impact social influence and temporal discounting},\n    author = {Su, Zhilin and Garvert, Mona M. and Zhang, Lei and Vogel, Todd A. and Cutler, Jo and Husain, Masud and Manohar, Sanjay G. and Lockwood, Patricia L.},\n    doi = {},\n    journal = {PLOS Biology},\n    year = {},\n    volume = {},\n    number = {},\n    pages = {}"
+    "text": "Citation\n\n  Add to Zotero \n\n@article{su2025dorsomedial,\n    title = {Dorsomedial and ventromedial prefrontal cortex lesions differentially impact social influence and temporal discounting},\n    author = {Su, Zhilin and Garvert, Mona M. and Zhang, Lei and Vogel, Todd A. and Cutler, Jo and Husain, Masud and Manohar, Sanjay G. and Lockwood, Patricia L.},\n    doi = {},\n    journal = {PLOS Biology},\n    year = {},\n    volume = {},\n    number = {},\n    pages = {}}"
   },
   {
     "objectID": "index.html",
@@ -235,7 +235,7 @@
     "href": "research/articles/2024_Su_Commun_Psychol/index.html#citation",
     "title": "Older adults are relatively more susceptible to impulsive social influence than young adults",
     "section": "Citation",
-    "text": "Citation\n\n  Add to Zotero \n\n@article{su2024older,\n    title = {Older Adults Are Relatively More Susceptible to Impulsive Social Influence than Young Adults},\n    author = {Su, Zhilin and Garvert, Mona M. and Zhang, Lei and Manohar, Sanjay G. and Vogel, Todd A. and Thomas, Louisa and Balsters, Joshua H. and Husain, Masud and Apps, Matthew A. J. and Lockwood, Patricia L.},\n    doi = {10.1038/s44271-024-00134-0},\n    journal = {Communications Psychology},\n    year = {2024},\n    volume = {2},\n    number = {1},\n    pages = {87}"
+    "text": "Citation\n\n  Add to Zotero \n\n@article{su2024older,\n  title = {Older Adults Are Relatively More Susceptible to Impulsive Social Influence than Young Adults},\n  author = {Su, Zhilin and Garvert, Mona M. and Zhang, Lei and Manohar, Sanjay G. and Vogel, Todd A. and Thomas, Louisa and Balsters, Joshua H. and Husain, Masud and Apps, Matthew A. J. and Lockwood, Patricia L.},\n  year = {2024},\n  month = sep,\n  journal = {Communications Psychology},\n  volume = {2},\n  number = {1},\n  pages = {87},\n  issn = {2731-9121},\n  doi = {10.1038/s44271-024-00134-0},\n  urldate = {2024-10-26},\n  abstract = {People differ in their levels of impulsivity and patience, and these preferences are heavily influenced by others. Previous research suggests that susceptibility to social influence may vary with age, but the mechanisms and whether people are more influenced by patience or impulsivity remain unknown. Here, using a delegated inter-temporal choice task and Bayesian computational models, we tested susceptibility to social influence in young (aged 18-36, N=76) and older (aged 60--80, N=78) adults. Participants completed a temporal discounting task and then learnt the preferences of two other people (one more impulsive and one more patient) before making their choices again. We used the signed Kullback-Leibler divergence to quantify the magnitude and direction of social influence. We found that, compared to young adults, older adults were relatively more susceptible to impulsive social influence. Factor analyses showed that older adults with higher self-reported levels of affective empathy and emotional motivation were particularly susceptible to impulsive influence. Importantly, older and young adults showed similar learning accuracy about others' preferences, and their baseline impulsivity did not differ. Together, these findings suggest highly affectively empathetic and emotionally motivated older adults may be at higher risk for impulsive decisions, due to their susceptibility to social influence.},\n  langid = {english}\n}"
   },
   {
     "objectID": "research/chapters/2025_Su_Neuroeconomics/index.html",
@@ -263,6 +263,6 @@
     "href": "research/chapters/2025_Su_Neuroeconomics/index.html#citation",
     "title": "The neuroeconomics of social influence and contagion",
     "section": "Citation",
-    "text": "Citation\n\n  Add to Zotero \n\n@misc{su2025neuroeconomics,\n    title = {The Neuroeconomics of Social Influence and Contagion},\n    author = {Su, Zhilin and Lockwood, Patricia}, \n    year = {2025}, \n    month = jan, \n    publisher = {PsyArxiv}, \n    doi = {10.31234/osf.io/tgmj3}"
+    "text": "Citation\n\n  Add to Zotero \n\n@misc{su2025neuroeconomics,\n    title = {The Neuroeconomics of Social Influence and Contagion},\n    author = {Su, Zhilin and Lockwood, Patricia}, \n    year = {2025}, \n    month = jan, \n    publisher = {PsyArxiv}, \n    doi = {10.31234/osf.io/tgmj3}}"
   }
 ]

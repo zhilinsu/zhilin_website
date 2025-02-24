@@ -3,6 +3,7 @@ title: "Dorsomedial and ventromedial prefrontal cortex lesions differentially im
 date: 2025-02-21
 author:
   - name: Zhilin Su
+    url: https://zhilinsu.com
     orcid: 0000-0001-6941-0970
     affiliation: Centre for Human Brain Health, University of Birmingham
   - name: Mona M. Garvert
@@ -85,5 +86,5 @@ The medial prefrontal cortex (mPFC) has long been associated with economic and s
     year = {},
     volume = {},
     number = {},
-    pages = {}
+    pages = {}}
 ```
