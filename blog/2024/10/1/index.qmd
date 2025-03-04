@@ -1,0 +1,61 @@
+---
+title: "兩年後的近況更新"
+description: "第一個 PhD 寶寶的誕生"
+date: 2024-10-01
+date-modified: last-modified
+
+author:
+  - name: 蘇致霖
+    url: https://zhilinsu.com/
+    orcid: 0000-0001-6941-0970
+
+image: img/commun_psychol.webp
+twitter-card: 
+    image: "img/commun_psychol.webp"
+open-graph: 
+    image: "img/commun_psychol.webp"
+
+categories:
+  - PhD 
+  - UK
+  - social influence 
+  - ageing
+  - Mandarin 
+---
+
+從九月底開始，正式踏入博士班生涯的第三年。
+剛好在這個重要的轉折點，我的第一篇博士班論文也終於順利刊登在 *Communications Psychology*：<br>
+**Su, Z.**, Garvert, M.M., Zhang, L. et al. Older adults are relatively more susceptible to impulsive social influence than young adults. *Commun. Psychol. 2*, 87 (2024). [https://doi.org/10.1038/s44271-024-00134-0](https://doi.org/10.1038/s44271-024-00134-0)
+
+# 研究摘要
+
+在這一篇純行為實驗的論文當中，我們探討老化（ageing）如何影響個體的時間折扣偏好（temporal discounting；亦稱為延宕折扣 delay discounting）與受社會影響（social influence）的程度。
+時間折扣偏好是指個體為了獲得未來較大報酬，願意等待的程度。社會影響則是指個體的行為和偏好會受到他人影響而改變。
+
+我們招募了 76 位年輕人（18–36 歲）與 78 位高齡者（60–80 歲）參與此項研究。
+受試者首先需自行完成跨時選擇決策作業（intertemporal choice task），根據其偏好在立即的小額報酬（衝動選擇）與延遲的大額報酬（耐心選擇）之間進行選擇。
+白話文來說，就是類似於在「今天拿到台幣一百元」與「一週後拿到台幣三百元」之間做抉擇。
+
+之後，他們會觀察並學習另外兩個人在這項決策作業中的選擇，其中一個人偏好衝動的選擇，另外一個人則偏好耐心的選擇。
+這些選擇實際上是根據受試者在第一階段的選擇，由一組計算模型生成的。
+最後，在觀察與學習結束之後，受試者會再次自行完成這項決策作業。
+
+透過上述實驗流程，我們運用貝氏計算模型估計受試者的時間折扣偏好（以機率分佈表示），並探討其偏好如何受到他人影響而改變。
+
+我們最主要的結果發現，相較於年輕人，高齡者更容易受到社會影響，尤其當他人做出較衝動的經濟決策時。
+在觀察到他人持續選擇衝動選項後，高齡者更有可能改變他們的偏好，轉而做出衝動的決策。
+相較之下，年輕人對這種影響的抵抗力較強，即使看到某人反覆選擇衝動選項，他們仍傾向堅持自己的原始偏好。
+
+# 喃喃自語
+
+這一篇簡單的論文，沒想到前前後後也花了快兩年的時間才正式完成（甚至不包含收案的時間）。 
+投稿一路從 *PNAS*（桌拒）到 *Nature Communications*（同儕審查後拒絕），最後落腳於 *Communications Psychology*，但以一篇相對小樣本的行為實驗來說，也該知足了 😅。
+
+（雖然以下這段他們都看不到，但我仍覺得應該寫下來）<br>
+感謝我的指導教授 Pat 慷慨分享其實驗資料，讓我在博士班初期就能有機會磨練自己的資料分析、計算模型建立與論文撰寫能力。
+感謝所有共同作者在這段期間所提供的寶貴回饋與投入的心力。
+感謝 SDN & MSN Labs 所有夥伴的陪伴與討論，這裡真的是最棒的實驗室！
+
+# 結語
+上面的摘要僅為粗略說明，有興趣閱讀詳情的人請參考[連結](https://doi.org/10.1038/s44271-024-00134-0)，這是一篇開放取用的文章，任何有興趣者都可免費閱讀！
+

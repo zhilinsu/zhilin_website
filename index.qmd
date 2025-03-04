@@ -32,7 +32,7 @@ format:
 ::: {.g-col-12 .g-col-sm-8}
 
 ::: {.text-center}
-## *How do people learn about others, learn from them, and make decision with them?*
+## *How do people learn about others, learn from them, and make decisions with them?*
 :::
 
 
