@@ -45,22 +45,17 @@ $dark:      $black !default;
 // Fonts
 
 
-$font-family-sans-serif: -apple-system, BlinkMacSystemFont, 
-"Arial", "Roboto", "Helvetica Neue", Arial, sans-serif !default;
+$font-family-sans-serif: "Roboto", "Helvetica Neue", Arial, sans-serif !default;
 
-$headings-font-family: "Jost", Arial, sans-serif !default;
+$headings-font-family: "Roboto", Arial, sans-serif !default;
 $headings-font-weight: 600 !default;
 
-$navbar-font-family: "Jost", Arial, sans-serif !default;
+$navbar-font-family: "Roboto", Arial, sans-serif !default;
 $navbar-font-weight: 600 !default;
 
-$toc-font-family: 
--apple-system, BlinkMacSystemFont, 
-"Arial", "Roboto", "Helvetica Neue", Arial, sans-serif !default;
+$toc-font-family: "Roboto", "Helvetica Neue", Arial, sans-serif !default;
 
-$footer-font-family: 
--apple-system, BlinkMacSystemFont, 
-"Arial", "Roboto", "Helvetica Neue", Arial, sans-serif !default;
+$footer-font-family: "Roboto", "Helvetica Neue", Arial, sans-serif !default;
 
 $font-size-base: 1.1rem !default; // Assumes the browser default, typically `16px`
 // $font-size-sm: $font-size-base * .875 !default;
@@ -97,7 +92,7 @@ $footer-fg: $gray-300 !default;
 
 /*-- scss:rules --*/
 
-$web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900" !default;
+$web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Karla:ital,wght@0,200..800;1,200..800" !default;
 
 @if $web-font-path {
     @import url($web-font-path);
@@ -728,3 +723,43 @@ nav#TOC {
 .quote-with-lines::after {
   bottom: 0;
 }
+
+// News 
+.news-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 1.5rem;
+}
+
+.news-date {
+  text-align: right;
+  min-width: 100px;
+  line-height: 1.2;
+  font-weight: 300;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-top: 0.4rem;
+}
+
+.news-content {
+  flex: 1;
+}
+
+.news-title {
+  font-size: 1.35rem;
+  font-weight: 500;
+  color: #66A14C;
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+}
+
+.news-desc {
+  margin: 0;
+  font-size: 1.15rem;
+  color: #333;
+}
+

@@ -1,0 +1,27 @@
+---
+title: "News"
+author: ""
+format: html
+page-layout: full
+toc-title: Year
+toc-location: right
+date-format: "DD MMMM YYYY"
+code-tools: false
+comments: false
+engine: knitr
+freeze: false
+---
+
+## 2022
+
+::: {.news-row}
+<div class="news-date">
+  <div>26 September</div>
+  <div>2022</div>
+</div>
+
+<div class="news-content">
+  <div class="news-title">Beginning my PhD in Psychology at the University of Birmingham</div>
+  <div class="news-desc">I'm very delighted to embark on a new academic journey at the Centre for Human Brain Health (CHBH), under the supervision of Dr Patricia Lockwood, Dr Matthew Apps, and Dr Todd Vogel!</div>
+</div>
+:::

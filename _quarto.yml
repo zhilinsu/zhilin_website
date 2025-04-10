@@ -54,6 +54,8 @@ website:
         file: research/index.qmd
       - text: "Blog"
         file: blog/index.qmd
+      - text: "News"
+        file: news/index.qmd
         
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
