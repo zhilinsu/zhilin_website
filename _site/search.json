@@ -56,32 +56,18 @@
     "text": "26 September\n\n\n2022\n\n\n\n\nBeginning my PhD in Psychology at the University of Birmingham\n\n\nI’m very delighted to embark on a new academic journey at the Centre for Human Brain Health (CHBH), under the supervision of Dr Patricia Lockwood, Dr Matthew Apps, and Dr Todd Vogel!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello there!",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
     "section": "",
-    "text": "I am a third-year PhD student in Psychology at the Centre for Human Brain Health, University of Birmingham, funded by the Government Scholarship for Overseas Study (公費留學獎學金) from the Ministry of Education in Taiwan.\nUnder the supervision of Prof. Patricia Lockwood, Prof. Matthew Apps, and Dr Todd Vogel, my research investigates the behavioural, computational and neural mechanisms underlying social learning and group decision-making in health, disease, and development. Currently, I am investigating collective timing decisions in group foraging using behavioural experiments and computational modelling."
+    "text": "Download current CV"
   },
   {
-    "objectID": "blog/index.html#section",
-    "href": "blog/index.html#section",
-    "title": "Blog",
-    "section": "2025",
-    "text": "2025\n\n\n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html#section-1",
-    "href": "blog/index.html#section-1",
-    "title": "Blog",
-    "section": "2024",
-    "text": "2024\n\n\n    \n    \n                  \n            01 October 2024\n        \n        \n            兩年後的近況更新\n\n            \n            \n                \n                \n                    PhD\n                \n                \n                \n                    UK\n                \n                \n                \n                    social influence\n                \n                \n                \n                    ageing\n                \n                \n                \n                    Mandarin\n                \n                \n            \n            \n\n            第一個 PhD 寶寶的誕生\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/index.html#section-2",
-    "href": "blog/index.html#section-2",
-    "title": "Blog",
-    "section": "2022",
-    "text": "2022\n\n\n    \n    \n                  \n            06 April 2022\n        \n        \n            2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)\n\n            \n            \n                \n                \n                    PhD\n                \n                \n                \n                    UK\n                \n                \n                \n                    Mandarin\n                \n                \n            \n            \n\n            一個不是特別成功的申請歷程\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+    "objectID": "blog/2024/10/1/index.html",
+    "href": "blog/2024/10/1/index.html",
+    "title": "兩年後的近況更新",
+    "section": "",
+    "text": "從九月底開始，正式踏入博士班生涯的第三年。 剛好在這個重要的轉折點，我的第一篇博士班論文也終於順利刊登在 Communications Psychology： Su, Z., Garvert, M.M., Zhang, L. et al. Older adults are relatively more susceptible to impulsive social influence than young adults. Commun. Psychol. 2, 87 (2024). https://doi.org/10.1038/s44271-024-00134-0\n\n研究摘要\n在這一篇純行為實驗的論文當中，我們探討老化（ageing）如何影響個體的時間折扣偏好（temporal discounting；亦稱為延宕折扣 delay discounting）與受社會影響（social influence）的程度。 時間折扣偏好是指個體為了獲得未來較大報酬，願意等待的程度。社會影響則是指個體的行為和偏好會受到他人影響而改變。\n我們招募了 76 位年輕人（18–36 歲）與 78 位高齡者（60–80 歲）參與此項研究。 受試者首先需自行完成跨時選擇決策作業（intertemporal choice task），根據其偏好在立即的小額報酬（衝動選擇）與延遲的大額報酬（耐心選擇）之間進行選擇。 白話文來說，就是類似於在「今天拿到台幣一百元」與「一週後拿到台幣三百元」之間做抉擇。\n之後，他們會觀察並學習另外兩個人在這項決策作業中的選擇，其中一個人偏好衝動的選擇，另外一個人則偏好耐心的選擇。 這些選擇實際上是根據受試者在第一階段的選擇，由一組計算模型生成的。 最後，在觀察與學習結束之後，受試者會再次自行完成這項決策作業。\n透過上述實驗流程，我們運用貝氏計算模型估計受試者的時間折扣偏好（以機率分佈表示），並探討其偏好如何受到他人影響而改變。\n我們最主要的結果發現，相較於年輕人，高齡者更容易受到社會影響，尤其當他人做出較衝動的經濟決策時。 在觀察到他人持續選擇衝動選項後，高齡者更有可能改變他們的偏好，轉而做出衝動的決策。 相較之下，年輕人對這種影響的抵抗力較強，即使看到某人反覆選擇衝動選項，他們仍傾向堅持自己的原始偏好。\n\n\n喃喃自語\n這一篇簡單的論文，沒想到前前後後也花了快兩年的時間才正式完成（甚至不包含收案的時間）。 投稿一路從 PNAS（桌拒）到 Nature Communications（同儕審查後拒絕），最後落腳於 Communications Psychology，但以一篇相對小樣本的行為實驗來說，也該知足了 😅。\n（雖然以下這段他們都看不到，但我仍覺得應該寫下來） 感謝我的指導教授 Pat 慷慨分享其實驗資料，讓我在博士班初期就能有機會磨練自己的資料分析、計算模型建立與論文撰寫能力。 感謝所有共同作者在這段期間所提供的寶貴回饋與投入的心力。 感謝 SDN & MSN Labs 所有夥伴的陪伴與討論，這裡真的是最棒的實驗室！\n\n\n結語\n上面的摘要僅為粗略說明，有興趣閱讀詳情的人請參考連結，這是一篇開放取用的文章，任何有興趣者都可免費閱讀！"
   },
   {
     "objectID": "blog/2022/04/06/index.html",
@@ -224,18 +210,32 @@
     "text": "Q9 | 疑難雜症（Q）或建議（A）\n\nQ9.1 | 英國學位成績換算？\n英國大學部畢業成績不適用 GPA，而是以榮譽學位（honours degree system）來區分，由高而低分別為：\n\nFirst-Class (1st)\nUpper Second-Class (2.i)\nLower Second-Class (2.ii)\nThird-Class (3rd)\nFail\n\n基本上沒有任何標準方式可以直接轉換 GPA 與英國榮譽學位的對應，每間學校做法都不太一樣。 如果真的有疑問，最直接且精確的做法，就是寄信問 Admission Officer。 不要自己換算，CV 上不要亂寫。\n\n\nQ9.2 | 什麼時候考英文檢定？\n英文檢定成績可以在申請時就附上，通常也可以申請後再補送，而且不太會影響學校是否發錄取通知（只是 condition 或 unconditional 的差別而已）。 但還是建議大家可以早一點準備，有些成績門檻會比原先預期得困難（像是 IELTS 寫作 7.0）。 另外，大部分學校都接受 IELTS 或 TOEFL 作為英文能力證明。\n\n\nQ9.3 | 寫信要怎麼稱呼指導教授？\n指導教授有 full professor 的職位才以 Prof. 來指稱，否則都以 Dr 指稱。 其餘注意事項可以參考這篇文章。\n\n\nQ9.4 | 要考哪些英文考試？\n英國心理學博班通常只要考英文能力檢定（e.g., IELTS, TOEFL, PTE, Cambridge English, etc.），不需要考 GRE（即便是美國的心理學博班，近年來也愈來愈多系所不要求 GRE 成績了）。\n在 2020 的時候，為了增加自己之後申請學校的彈性，有花了大約三個月準備 GRE（包含補習兩個月＋自己考前練習一個月）。雖然申請過程中沒有使用到 GRE 分數，但準備 GRE 的過程對於自己英文實力的提升到是滿有感的。尤其是英文「邏輯閱讀」的訓練，會對於英文文章架構有更深入的理解，了解每個文句在段落中扮演的角色；對於申請過程中撰寫 SOP 或是 RP 都很有幫助，可以幫助自己找到寫作的邏輯漏洞。\n\n\n\n\n\n\nTip\n\n\n\n我那時候是在 Mason GRE 上 GRE 密集班，我覺得算是經濟實惠的一個投資，課後也提供很多海外留學、工作的資訊與交流平台。他們也有提供很多免費的公開課可以參考。\n\n\n我之後會再撰寫一篇文章分享自己的英文學習經驗與資源（尤其是英式英文的部分）！\n\n\n\n💡 A9.1 | 可以辦一個學術 Bluesky/X 帳號。\nAcademic Bluesky/X 可以追蹤一些有在留意的學者，可以第一手知道其研究近況，也能了解目前學術界討論的議題，也可以學習其他人如何用相對少的文字來介紹、推廣自己的研究結果。而且很多博班申請（尤其是歐陸那種不定時開缺的，或是 UKRI-granted PhD 的機會）、獎學金或學術資源的資訊會在上面流通。\n可以參考這篇文章：A Beginner’s Guide to Joining Academic Twitter。\n\n\n💡 A9.2 | 好用的一些網站與資源。\n\nFindAPhD\nCantab English Blog  尤其推薦其「留學生活」相關的專欄文章。\nThe Student Room (TSR)  英國最大的學生論壇，有問題可以在上面找找看有沒有討論串。每年研究所申請都會有專門的討論串，壓力很大的話，可以在上面討論、抒發、取暖。\n亞瑟的留學軍團  由一位 UCLA 退休教授在臺大心理系創設，協助學生申請國外博班的組織。"
   },
   {
-    "objectID": "blog/2024/10/1/index.html",
-    "href": "blog/2024/10/1/index.html",
-    "title": "兩年後的近況更新",
-    "section": "",
-    "text": "從九月底開始，正式踏入博士班生涯的第三年。 剛好在這個重要的轉折點，我的第一篇博士班論文也終於順利刊登在 Communications Psychology： Su, Z., Garvert, M.M., Zhang, L. et al. Older adults are relatively more susceptible to impulsive social influence than young adults. Commun. Psychol. 2, 87 (2024). https://doi.org/10.1038/s44271-024-00134-0\n\n研究摘要\n在這一篇純行為實驗的論文當中，我們探討老化（ageing）如何影響個體的時間折扣偏好（temporal discounting；亦稱為延宕折扣 delay discounting）與受社會影響（social influence）的程度。 時間折扣偏好是指個體為了獲得未來較大報酬，願意等待的程度。社會影響則是指個體的行為和偏好會受到他人影響而改變。\n我們招募了 76 位年輕人（18–36 歲）與 78 位高齡者（60–80 歲）參與此項研究。 受試者首先需自行完成跨時選擇決策作業（intertemporal choice task），根據其偏好在立即的小額報酬（衝動選擇）與延遲的大額報酬（耐心選擇）之間進行選擇。 白話文來說，就是類似於在「今天拿到台幣一百元」與「一週後拿到台幣三百元」之間做抉擇。\n之後，他們會觀察並學習另外兩個人在這項決策作業中的選擇，其中一個人偏好衝動的選擇，另外一個人則偏好耐心的選擇。 這些選擇實際上是根據受試者在第一階段的選擇，由一組計算模型生成的。 最後，在觀察與學習結束之後，受試者會再次自行完成這項決策作業。\n透過上述實驗流程，我們運用貝氏計算模型估計受試者的時間折扣偏好（以機率分佈表示），並探討其偏好如何受到他人影響而改變。\n我們最主要的結果發現，相較於年輕人，高齡者更容易受到社會影響，尤其當他人做出較衝動的經濟決策時。 在觀察到他人持續選擇衝動選項後，高齡者更有可能改變他們的偏好，轉而做出衝動的決策。 相較之下，年輕人對這種影響的抵抗力較強，即使看到某人反覆選擇衝動選項，他們仍傾向堅持自己的原始偏好。\n\n\n喃喃自語\n這一篇簡單的論文，沒想到前前後後也花了快兩年的時間才正式完成（甚至不包含收案的時間）。 投稿一路從 PNAS（桌拒）到 Nature Communications（同儕審查後拒絕），最後落腳於 Communications Psychology，但以一篇相對小樣本的行為實驗來說，也該知足了 😅。\n（雖然以下這段他們都看不到，但我仍覺得應該寫下來） 感謝我的指導教授 Pat 慷慨分享其實驗資料，讓我在博士班初期就能有機會磨練自己的資料分析、計算模型建立與論文撰寫能力。 感謝所有共同作者在這段期間所提供的寶貴回饋與投入的心力。 感謝 SDN & MSN Labs 所有夥伴的陪伴與討論，這裡真的是最棒的實驗室！\n\n\n結語\n上面的摘要僅為粗略說明，有興趣閱讀詳情的人請參考連結，這是一篇開放取用的文章，任何有興趣者都可免費閱讀！"
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
+    "title": "Blog",
+    "section": "2025",
+    "text": "2025\n\n\n    \n\n\nNo matching items"
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum vitae",
+    "objectID": "blog/index.html#section-1",
+    "href": "blog/index.html#section-1",
+    "title": "Blog",
+    "section": "2024",
+    "text": "2024\n\n\n    \n    \n                  \n            01 October 2024\n        \n        \n            兩年後的近況更新\n\n            \n            \n                \n                \n                    PhD\n                \n                \n                \n                    UK\n                \n                \n                \n                    social influence\n                \n                \n                \n                    ageing\n                \n                \n                \n                    Mandarin\n                \n                \n            \n            \n\n            第一個 PhD 寶寶的誕生\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html#section-2",
+    "href": "blog/index.html#section-2",
+    "title": "Blog",
+    "section": "2022",
+    "text": "2022\n\n\n    \n    \n                  \n            06 April 2022\n        \n        \n            2021/22 英國伯明翰大學心理學博士班申請 (University of Birmingham)\n\n            \n            \n                \n                \n                    PhD\n                \n                \n                \n                    UK\n                \n                \n                \n                    Mandarin\n                \n                \n            \n            \n\n            一個不是特別成功的申請歷程\n            \n            \n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello there!",
     "section": "",
-    "text": "Download current CV"
+    "text": "I am a third-year PhD student in Psychology at the Centre for Human Brain Health, University of Birmingham, funded by the Government Scholarship for Overseas Study (公費留學獎學金) from the Ministry of Education in Taiwan.\nUnder the supervision of Prof. Patricia Lockwood, Prof. Matthew Apps, and Dr Todd Vogel, my research investigates the behavioural, computational and neural mechanisms underlying social learning and group decision-making in health, disease, and development. Currently, I am investigating collective timing decisions in group foraging using behavioural experiments and computational modelling."
   },
   {
     "objectID": "research/articles/2024_Su_Commun_Psychol/index.html",
