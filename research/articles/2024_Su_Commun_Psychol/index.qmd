@@ -54,13 +54,12 @@ pub-info:
     (2024). Older adults are relatively more susceptible to impulsive social influence than young adults. <em><strong>Communications Psychology</strong>, 2</em>(1), 87.
     <a href="https://doi.org/10.1038/s44271-024-00134-0">10.1038/s44271-024-00134-0</a>. 
   links:
+    - name: Paper
+      url: https://doi.org/10.1038/s44271-024-00134-0
+      icon: fa-solid fa-scroll
     - name: Preprint
       url: https://osf.io/preprints/psyarxiv/zdr7q_v1
       icon: fa-solid fa-file-pdf
-      target: _blank
-    - name: Final version
-      url: https://doi.org/10.1038/s44271-024-00134-0
-      icon: fa-solid fa-scroll
     - name: Data/Code
       url: https://osf.io/zgb5v/
       icon: ai ai-osf

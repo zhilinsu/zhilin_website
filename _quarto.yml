@@ -59,7 +59,7 @@ website:
         
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
-        href: "mailto:zhilinsu1312@gmail.com"
+        href: "mailto:zhilin.zl.su@gmail.com"
       - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
         href: https://github.com/zhilinsu
         rel: me
@@ -68,6 +68,9 @@ website:
         rel: me
       - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
         href: https://bsky.app/profile/zhilinsu.bsky.social 
+        rel: me
+      - text: "{{< iconify fa6-brands google-scholar size=1.1em title='Google Scholar' >}}"
+        href: https://scholar.google.com/citations?user=0TMIDh4AAAAJ&hl=en&authuser=1  
         rel: me
   
   page-footer:
