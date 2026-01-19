@@ -20,12 +20,12 @@ freeze: true
 bibliography: attachments/bib/references.bib
 
 # Metadata stuff
-pagetitle: "{{< meta title >}} | Zhilin Su"
-author-meta: "Zhilin Su"
+pagetitle: "{{< meta title >}} | Zhi-Lin Su"
+author-meta: "Zhi-Lin Su"
 
 website:
-  title: "Zhilin Su | 蘇致霖"
-  description: "Zhilin Su is a Psychology PhD student at Centre for Human Brain Health, University of Birmingham, studying social learning and group decision-making."
+  title: "Zhi-Lin Su | 蘇致霖"
+  description: "Zhi-Lin Su is a Psychology PhD student at Centre for Human Brain Health, University of Birmingham, studying social learning and group decision-making."
   favicon: "/attachments/favicon-512.png"
   site-url: https://zhilinsu.com/
   #repo-url: https://github.com/jhelvy/jhelvy_quarto
@@ -77,7 +77,7 @@ website:
     left: |
       <span class="faux-block">{{< ai orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
     center: |
-      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Zhilin Su (inspired by [Andrew Heiss](https://www.andrewheiss.com/))</span>
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Zhi-Lin Su (inspired by [Andrew Heiss](https://www.andrewheiss.com/))</span>
       <span class="faux-block">[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>  
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>

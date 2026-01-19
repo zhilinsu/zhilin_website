@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 author: ""
-description: "Zhilin Su's blog"
+description: "Zhi-Lin Su's blog"
 listing:
   - id: posts_2025
     contents: "2025/**/index.qmd"

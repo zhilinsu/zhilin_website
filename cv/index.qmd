@@ -1,7 +1,7 @@
 ---
 title: Curriculum vitae
-description: "Zhilin Su's CV"
-date: 2025-10-08
+description: "Zhi-Lin Su's CV"
+date: 2026-01-08
 date-format: "DD MMMM YYYY"
 title-block-banner: "#66A14C"
 published-title: CV last updated
@@ -9,7 +9,7 @@ engine: knitr
 freeze: false
 page-layout: full
 cv:
-  pdf: "202509_zhilinsu_cv.pdf"
+  pdf: "zhilinsu_cv.pdf"
 ---
 
 ```{css, echo=FALSE}
